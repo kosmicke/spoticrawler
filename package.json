@@ -1,0 +1,17 @@
+{
+  "name": "spoticrawler",
+  "version": "1.0.0",
+  "description": "A crawler to execute spotify functions",
+  "main": "index.js",
+  "author": "kosmicke",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.1.1"
+  },
+  "devDependencies": {
+    "chromedriver": "^97.0.0"
+  }
+}
